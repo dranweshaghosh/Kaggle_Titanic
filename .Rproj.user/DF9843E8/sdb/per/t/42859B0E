@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1476996104165.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "42859B0E",
+    "lastKnownWriteTime" : 4477476920,
+    "last_content_update" : 1476996104165,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "ns4vlds9k2",
+        "caption" : "kaggle.sub",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=kaggle.sub&cache_key=ns4vlds9k2",
+        "displayedObservations" : "891",
+        "environment" : "",
+        "object" : "kaggle.sub",
+        "totalObservations" : "891",
+        "variables" : "2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
